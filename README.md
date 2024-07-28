@@ -1,4 +1,4 @@
-# rokit-renovate-configuration
+# rokit-renovate-config
 A renovate config for the next-generation toolchain manager.\
 Make sure to follow the license and report issues shortly!
 
